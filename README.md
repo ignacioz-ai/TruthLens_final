@@ -12,7 +12,7 @@
 [![Backend: FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?logo=fastapi)](https://fastapi.tiangolo.com/)
 [![Powered by: OpenAI](https://img.shields.io/badge/Powered%20by-OpenAI-4A90E2?logo=openai)](https://openai.com/)
 
-> Built for the World's Largest Hackathon presented by Bolt — Empowering minds, not manipulating them.
+> Originally built in Bolt.new — extended into a full-stack AI platform for submission to the World’s Largest Hackathon by Bolt.
 
 ---
 
