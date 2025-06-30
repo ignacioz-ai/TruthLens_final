@@ -20,9 +20,9 @@
 
 - **Project Name:** TruthLens  
 - **Built with Bolt.new:** Yes (initial prototype and UI flows built on Bolt)  
-- **Public Demo:** [truthlensai.netlify.app](https://truthlensai.netlify.app)  
+- **Public Demo:** [truthlensai.netlify.app](https://truthlensai.netlify.ap)  
 - **Bolt Project URL:** [bolt.new/~/truthlens](https://bolt.new/~/truthlens)  
-- **Video Demo:** [YouTube link](https://youtube.com/yourlink)  
+- **Video Demo:** [YouTube link](https://www.youtube.com/watch?v=7F703ZryMGk&t=47s)  
 - **Email used in Bolt.new:** ignacio_zu@outlook.com  
 - **Region:** AMER 
 
